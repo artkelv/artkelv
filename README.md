@@ -1,7 +1,6 @@
 <h1 align="center">Olá, me chamo Arthur Kelvim 😁 </h1>
 
 <div>
-  <h3>Portfólio: Em progresso...</h3>
   <p>Estudante na Labenu  - Curso: Programação Full-stack</p>
 </div>
 
