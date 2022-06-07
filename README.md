@@ -6,7 +6,7 @@
 
 <div>
   <h3>Sobre</h3>
-  <p>Olá a todos que estão por aqui, como sabem, me chamo Arthur Kelvim, tenho 23 anos, e descobri a minha paixão que é programar ❤, e hoje sou estudante de programação-web em formação. Estou na metade do meu curso, e recentemente acabei de terminar o módulo de Front-End. Daqui 3 meses eu também termino o módulo do Back-End e então me torno Full-Stack 🤯. </p>
+  <p>Olá a todos que estão por aqui, como sabem, me chamo Arthur Kelvim, tenho 24 anos, e descobri a minha paixão que é programar ❤, e hoje sou estudante de programação-web em formação. Estou na metade do meu curso, e estou terminando o módulo back-end daqui a pouquinho, Ihuuu. Queria dizer que adorei o front-end, mas irei focar meus estudos daqui pra frente no back-end. Aproveite para ver alguns projetos que irei postar aqui BYYYY 🤯. </p>
   
    <h4>Abaixo você irá encontrar algumas informações sobre mim, e espero que agrade você de alguma forma 🤩</h4>
   
