@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://portfolio-arthur-kelvim.surge.sh/" target="_Blank">Portfólio</a>
-  <p>Formado em Programação Web Full-stack</p>
+  <p>Formado em Programação Web Full-stack pela Labenu.</p>
 </div>
 
 <div>
