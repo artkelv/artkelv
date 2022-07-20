@@ -1,7 +1,7 @@
 <h1 align="center">Olá, me chamo Arthur Kelvim 😁 </h1>
 
 <div>
-  <a href="https://portfolio-arthur-kelvim.surge.sh/" target="_Blank">Portfólio</a>
+  <a href="https://artkelv.github.io/portfolio/" target="_Blank">Portfólio</a>
   <p>Formado em Programação Web Full-stack pela Labenu.</p>
 </div>
 
