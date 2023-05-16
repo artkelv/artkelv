@@ -7,7 +7,7 @@
 
 <div>
   <h3>Sobre</h3>
-  <p>Olá a todos que estão por aqui, como sabem, me chamo Arthur Kelvim, tenho 24 anos, e descobri a minha paixão que é programar ❤, e hoje sou estudante de programação-web em formação. Acabo de terminar meu curso, e estou decidido a me tornar um programador-web Back-end, Ihuuu. Queria dizer que adorei o front-end, mas irei focar meus estudos daqui pra frente no back #TEAMBACK. Aproveite para ver alguns projetos que irei postar aqui BYYYY 🤯. </p>
+  <p>Olá a todos que estão por aqui, como sabem, me chamo Arthur Kelvim, tenho 25 anos, e descobri a minha paixão que é programar ❤, e hoje sou Desenvolvedor Júnior formado pela Labenu. Terminei meu curso em 07/2022 e decidi trilhar o Front-end, Ihuuu. Queria dizer que adorei o BACK-END e sei mexer nele, mas irei focar meus estudos daqui pra frente no front, pois acredito ter um grande talento para desenvolver interfaces bonitas e objetivas #TEAMFRONT. Aproveite para ver alguns projetos que irei postar aqui BYYYY 🤯. </p>
   
    <h4>Abaixo você irá encontrar algumas informações sobre mim, e espero que agrade você de alguma forma 🤩</h4>
   
