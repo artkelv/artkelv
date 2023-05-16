@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://artkelv.github.io/portfolio/" target="_blank">Portfólio</a>
-  <p>Formado em Programação Web Full-stack pela Labenu.</p>
+  <p>Desenvolvedor Front-end Júnior.</p>
 </div>
 
 <div>
